@@ -1,0 +1,4 @@
+project_id = "etitbuamtczytjwmimxp"
+
+[functions.submit-partner-inquiry]
+verify_jwt = false
